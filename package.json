@@ -1,12 +1,12 @@
 {
-  "name": "kira-md",
+  "name": "JOEN-HADI",
   "version": "9.0.0",
-  "description": "KIRA-MD WhatsApp bot created by ArslanMD Official",
+  "description": "JOEN-HADI WhatsApp bot created by ArslanMD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KIRA-MD",
-    "stop": "pm2 stop KIRA-MD",
-    "restart": "pm2 restart KIRA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name JOEN-HADI",
+    "stop": "pm2 stop JOEN-HADI",
+    "restart": "pm2 restart JOEN-HADI"
   },
   "dependencies": {
     "@dark-yasiya/news-scrap": "latest",
