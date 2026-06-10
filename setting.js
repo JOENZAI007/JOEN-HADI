@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-// Add Your Session Id Start With KIRA-MD Hear
+// Add Your Session Id Start With JOEN-HADI Hear
 SESSION_ID: process.env.SESSION_ID || "",
-// KIRA MD Api Site Url
+// JOEN-HADI Api Site Url
 API_BASE: process.env.API_BASE || "https://arslan-apis.vercel.app/",
-// KIRA MD Api Key -- Add This To Your Api Key Form Api Site
+// JOEN-HADI Api Key -- Add This To Your Api Key Form Api Site
 API_KEY: process.env.API_KEY || "arslanmdofficialadmin",
 // Auto Status Seen
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
