@@ -18,7 +18,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KIRA-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY JOEN-HADI 🤍*",
 
 AUTO_BIO: process.env.AUTO_BIO || "true",
 // true if want welcome msg in groups
@@ -28,9 +28,9 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KIRA-MD",
+BOT_NAME: process.env.BOT_NAME || "JOEN-HADI",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "KIRA-MD",
+STICKER_NAME: process.env.STICKER_NAME || "JOEN-HADI",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -38,9 +38,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045919",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "92343 0921713",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ArslanMD Official",
+OWNER_NAME: process.env.OWNER_NAME || "JOEN-HADI Official",
 
 SEND_WELCOME: process.env.SEND_WELCOME || "true",
 // add alive msg here 
