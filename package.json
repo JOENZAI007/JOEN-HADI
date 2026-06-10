@@ -1,7 +1,7 @@
 {
   "name": "JOEN-HADI",
   "version": "9.0.0",
-  "description": "JOEN-HADI WhatsApp bot created by ArslanMD Official",
+  "description": "JOEN-HADI WhatsApp bot created by HADI-MD Official",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name JOEN-HADI",
